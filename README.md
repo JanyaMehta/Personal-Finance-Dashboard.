@@ -2,7 +2,8 @@
 
 
 
-![Dashboard Screenshot](<URL_to_your_screenshot_here>)
+![Dashboard Screenshot](https://github.com/JanyaMehta/Personal-Finance-Dashboard./blob/main/dashboard.png)
+
 
 ## 📝 Project Overview
 
